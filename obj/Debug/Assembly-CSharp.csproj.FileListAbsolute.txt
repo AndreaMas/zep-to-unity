@@ -1,0 +1,6 @@
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\obj\Debug\Assembly-CSharp.dll
+D:\CatellaniUnityProj\UnityWorkspace\My project Castellani\obj\Debug\Assembly-CSharp.pdb
