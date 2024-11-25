@@ -3,6 +3,7 @@
 
 # But not these files...
 !.gitignore
+!.gitattributes
 !README.md
 !Assets
 !Packages
